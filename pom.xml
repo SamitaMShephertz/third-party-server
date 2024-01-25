@@ -56,7 +56,7 @@
 		</dependencies>
 	</dependencyManagement>
 	<build>
-		<finalName>third-party-server</finalName>
+<!--		<finalName>third-party-server</finalName>-->
 		<plugins>
 
 			<plugin>
